@@ -23,6 +23,10 @@ const Welcome = ({ searchTerm, setSearchTerm, handleClick }) => {
       <View style={styles.container}>
         <Text style={styles.userName}>Hello</Text>
         <Text style={styles.userName}>Mihal</Text>
+        <Text style={styles.userName}>Mihal</Text>
+        <Text style={styles.userName}>Mihal</Text>
+        <Text style={styles.userName}>Mihal</Text>
+        <Text style={styles.welcomeMessage}>Find your perfect job</Text>
         <Text style={styles.welcomeMessage}>Find your perfect job</Text>
       </View>
 
