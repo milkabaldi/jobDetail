@@ -33,3 +33,13 @@ const useFetch = (endpoint, query) =>{
     }
   }
 }
+
+useEffect(() => {
+  fetchData()
+  return () =>{
+    second
+  }
+},[third])
+
+
+
